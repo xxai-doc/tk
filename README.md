@@ -7,3 +7,4 @@ Web sahypasynyň öňdäki kody açyk çeşmedir, terjimäni optimizirlemäge k�
 * [öňdäki kody](https://github.com/xxai-art/web)
 * [Tutuşlygyna sahypa üçin dil paketleri](https://github.com/xxai-art/web/tree/main/i18n)
 * [Giriş modullary üçin dil paketleri](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Web sahypasy köp dilli resminamalar](https://github.com/xxai-doc)
